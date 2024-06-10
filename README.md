@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Srajal0yadav1
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web apps
+- 🌱 I’m currently learning python 
 - 📫 How to reach me srajal.yadav.sy@gmail.com
 
 <!---
